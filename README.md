@@ -7,3 +7,6 @@ Password : user
 
 Username : brian
 Password : brian
+
+Username : admin
+Password : 123
